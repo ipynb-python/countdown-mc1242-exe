@@ -1,0 +1,4 @@
+conda activate base
+/opt/conda/bin/python /workspaces/countdown-mc1242-exe/ex2_timer.py
+/opt/conda/bin/python /workspaces/countdown-mc1242-exe/ex1_load_in_words.py
+/opt/conda/bin/python /workspaces/countdown-mc1242-exe/play_countdown.py
